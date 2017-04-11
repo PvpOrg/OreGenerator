@@ -1,0 +1,4 @@
+name: OreGenerator
+version: 1.0
+main: net.hikaricp.skyblock.ore.Main
+author: HikariCP/MigrateAccount
